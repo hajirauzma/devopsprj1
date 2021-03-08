@@ -3,7 +3,7 @@ USA
 India 
 Pakistan
 Afghanistan
-Russia 
+ 
 Australia
 Mexico
 Turkey
@@ -16,3 +16,4 @@ Romania
 Germany
 France 
 Spain
+test1
